@@ -1,0 +1,9 @@
+# Archivos de compilación
+build/
+dist/
+*.spec
+
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
